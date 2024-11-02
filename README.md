@@ -1,1 +1,1 @@
-
+Example usage of component
